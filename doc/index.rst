@@ -27,6 +27,7 @@ documentation.
    profinet_details.rst
    prepare_raspberrypi.rst
    multiple_ports.rst
+   shared_device.rst
    creating_gsdml_files.rst
    network_topology_detection.rst
    applications_and_porting.rst

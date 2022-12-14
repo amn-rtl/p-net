@@ -55,6 +55,7 @@ Features:
  * Porting layer provided
  * Supports I&M0 - I&M4. The I&M data is supported for the device, but not for
    individual modules.
+ * Shared device (connection to multiple controllers)
 
 Limitations or not yet implemented:
 
@@ -66,7 +67,7 @@ Limitations or not yet implemented:
 * No support for DHCP
 * No fast start-up
 * No MC multicast device-to-device
-* No support of shared device (connection to multiple controllers)
+* No support for shared inputs
 * Supports only full connections, not the limited "DeviceAccess" connection type.
 * No iPar (parameter server) support
 * No support for time synchronization

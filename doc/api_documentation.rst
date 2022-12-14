@@ -101,6 +101,8 @@ to perform specific functionality.
 .. doxygentypedef:: pnet_alarm_ind
 .. doxygentypedef:: pnet_alarm_cnf
 .. doxygentypedef:: pnet_alarm_ack_cnf
+.. doxygentypedef:: pnet_sm_released_ind
+.. doxygentypedef:: pnet_sm_released_cnf
 
 
 Selected enums
